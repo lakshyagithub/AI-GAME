@@ -1,0 +1,31 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading:hover
+{
+    cursor: initial;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
