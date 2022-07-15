@@ -89,11 +89,11 @@ function game(){
   }
   
   if(gameConfig.status==='play'){
-    positionOfCharacter(mario);
-    enemys(enemyMushrooms);
-    checkStatus(mario);
-    scores(mario);
-    manualControl(mario);
+    positionOfCharacter(mario)
+    enemys(enemyMushrooms)
+    checkStatus(mario)
+    scores(mario)
+    manualControl(mario)
   
     // optional control version of game
     // autoControl(mario);
